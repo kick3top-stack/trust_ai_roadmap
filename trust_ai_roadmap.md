@@ -119,4 +119,3 @@ TrustAI seeks to become a universal verification layer for AI services, allowing
 * Whether records were modified
 * Whether outputs belong to a verified execution
 
-The objective is not to replace AI providers, but to increase trust, transparency, and auditability across the AI ecosystem.
